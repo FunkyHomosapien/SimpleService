@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{FE1CFE72-661A-4752-9E8B-DADB4E2C15E8}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SimpleService/Startup.cs">
+    <Files>
+      <File FileName="SimpleService/Controllers/BetsController.cs" Line="71" Column="26" />
+      <File FileName="SimpleService/Services/BetService.cs" Line="79" Column="1" />
+      <File FileName="SimpleService/Services/Interfaces/IBetService.cs" Line="12" Column="32" />
+      <File FileName="SimpleService/Models/Bet.cs" Line="19" Column="1" />
+      <File FileName="SimpleService/Startup.cs" Line="53" Column="15" />
+      <File FileName="SimpleService/Program.cs" Line="22" Column="39" />
+      <File FileName="SimpleService/Properties/launchSettings.json" Line="6" Column="48" />
+      <File FileName="SimpleService/Models/.DS_Store" Line="1" Column="1" />
+      <File FileName="SimpleService/Models/HealthIndicator.cs" Line="22" Column="58" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/deldavies/Projects/SimpleService/SimpleService/Controllers/HealthCheckController.cs" relfile="SimpleService/Controllers/HealthCheckController.cs" line="37" column="1" />
+      <Breakpoint file="/Users/deldavies/Projects/SimpleService/SimpleService/Controllers/HealthCheckController.cs" relfile="SimpleService/Controllers/HealthCheckController.cs" line="47" column="1" />
+      <Breakpoint file="/Users/deldavies/Projects/SimpleService/SimpleService/Services/BetService.cs" relfile="SimpleService/Services/BetService.cs" line="65" column="1" />
+      <Breakpoint file="/Users/deldavies/Projects/SimpleService/SimpleService/Services/BetService.cs" relfile="SimpleService/Services/BetService.cs" line="53" column="1" />
+      <Breakpoint file="/Users/deldavies/Projects/SimpleService/SimpleService/Services/BetService.cs" relfile="SimpleService/Services/BetService.cs" line="79" column="1" />
+      <Breakpoint file="/Users/deldavies/Projects/SimpleService/SimpleService/Controllers/BetsController.cs" relfile="SimpleService/Controllers/BetsController.cs" line="67" column="1" />
+      <Breakpoint file="/Users/deldavies/Projects/SimpleService/SimpleService/Controllers/BetsController.cs" relfile="SimpleService/Controllers/BetsController.cs" line="68" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.SimpleService PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
