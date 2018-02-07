@@ -1,4 +1,5 @@
 # SimpleService
+
 Simple REST api service
 
 ## Getting Started
@@ -7,19 +8,21 @@ Build using dotnet
 
 ### Prerequisites
 
+.Net Core 2.0
+
 ### Installing
 
 ## Running the tests
 
-Naughty naughty no tests yet!!!
+Can be run from Visual Studio or the Commandline.
+
+Coverage for HealthController provided
 
 ## Deployment
 
 ## Built With
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+* DotNet
 
 ## Contributing
 
@@ -27,7 +30,7 @@ Naughty naughty no tests yet!!!
 
 ## Authors
 
-* **The Funky Homosapien** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **The Funky Homosapien**
 
 See also the list of [contributors](https://github.com/William-Hill-Community) who participated in this project.
 
@@ -37,4 +40,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* Cheers P&R
+* Cheers to P&R | Ferg Burger | The Buzzard
