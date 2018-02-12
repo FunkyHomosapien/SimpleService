@@ -21,6 +21,7 @@ namespace SimpleService
             services.AddSingleton<IDateTimeService, DateTimeService>();
             services.AddSingleton<IApplicationHealthService, ApplicationHealthService>();
             services.AddSingleton<IServerHealthService, ServerHealthService>();
+            services.AddSingleton<IMachineInfo, MachineInfo>();
             services.AddSingleton<IDatabaseHealthService, DatabaseHealthService>();
 
             services.AddSingleton(Log.Logger = new LoggerConfiguration()
